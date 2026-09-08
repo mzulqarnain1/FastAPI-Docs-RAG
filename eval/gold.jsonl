@@ -1,0 +1,6 @@
+{"q": "How do I make a query parameter required?", "expected_docs": ["tutorial_query-params.md"]}
+{"q": "How do I share database connection logic across multiple endpoints?", "expected_docs": ["tutorial_dependencies_index.md"]}
+{"q": "How do I return a 404 when an item doesn't exist?", "expected_docs": ["tutorial_handling-errors.md"]}
+{"q": "How can I run something after returning a response, like sending an email?", "expected_docs": ["tutorial_background-tasks.md"]}
+{"q": "How does FastAPI handle WebSockets?", "expected_docs": []}
+{"q": "How do we implement fintech payments in FastAPI?", "expected_docs": []}

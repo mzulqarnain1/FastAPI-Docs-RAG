@@ -1,0 +1,9 @@
+langchain
+langchain-openai
+langchain-community
+openai
+psycopg[binary]
+python-dotenv
+fastapi
+uvicorn
+sentence_transformers
